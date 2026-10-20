@@ -1,17 +1,30 @@
 # Student Management System
+
 ## Project Description
-This project is a simple website for student management.
+Student Management System is a simple web-based project
+used to display student registration details.
+
 ## Features
 - Home page
 - Student registration form
-- Student name, roll number, email, and course fields
+- Student name
+- Roll number
+- Email
+- Course
 - Registration success message
+
 ## Technologies Used
 - HTML
 - CSS
 - JavaScript
 - GitHub Pages
-## Future Improvements
-- Python backend
-- Database to store student details
-- View registered students
+
+## Future Enhancements
+- Python backend integration
+- Database connectivity
+- View registered student details
+- Update and delete student records
+
+## Conclusion
+This project helps to understand basic web development
+and GitHub collaboration.
